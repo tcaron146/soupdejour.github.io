@@ -1,0 +1,15 @@
+{
+  "name": "personal_web",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "script.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "Tom Caron",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
